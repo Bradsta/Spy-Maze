@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="apk" name="SpyMaze">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpyMaze</output-path>
+    <properties id="android-properties">
+      <options>
+        <option name="keyAlias" value="spymazekey" />
+        <option name="keyPassword" value="aGViYWxhYmEx" />
+        <option name="keyStorePassword" value="aGViYWxhYmEx" />
+        <option name="keyStoreUrl" value="file://$PROJECT_DIR$/../../Keystore (Android)/SpyMaze/spymazekey" />
+        <option name="signingMode" value="RELEASE_SIGNED" />
+      </options>
+    </properties>
+    <root id="archive" name="SpyMaze.apk">
+      <element id="android-final-package" facet="SpyMaze/android/Android" />
+    </root>
+  </artifact>
+</component>
