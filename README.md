@@ -1,5 +1,5 @@
 # Spy-Maze
-[IMG]https://lh3.ggpht.com/ejPWAtUFSyETjuG2QdNF9x2ljoCczxnSN2EJBG9Bg7I6SncHSorbfHN7h-86KuYqTlY=h900-rw[/IMG]
+![alt tag](https://lh3.ggpht.com/ejPWAtUFSyETjuG2QdNF9x2ljoCczxnSN2EJBG9Bg7I6SncHSorbfHN7h-86KuYqTlY=h900-rw)
 
 Spy Maze is a stealth theme arcade style game where the objective is to avoid enemies while traversing through a maze.
 
